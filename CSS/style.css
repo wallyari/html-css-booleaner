@@ -1,0 +1,20 @@
+body{
+    margin:auto;
+    
+    }
+    /* header */
+    .pattern-logo{
+        height: 100px;
+        background-color: #4ea0ff;
+        background-image: url(img/pattern.png);
+        background-size: 35%;
+    }
+    
+    .logo{
+        width: 150px;
+        padding-top:20px;
+    } 
+    
+    #info-articolo{
+        color:grey;
+    }
