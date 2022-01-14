@@ -6,7 +6,7 @@ body{
     .pattern-logo{
         height: 100px;
         background-color: #4ea0ff;
-        background-image: url(img/.pattern-logo);
+        background-image: url(../img/pattern.png);
         background-size: 35%;
     }
     
