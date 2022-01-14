@@ -6,7 +6,7 @@ body{
     .pattern-logo{
         height: 100px;
         background-color: #4ea0ff;
-        background-image: url(img/pattern.png);
+        background-image: url(img/.pattern-logo);
         background-size: 35%;
     }
     
@@ -18,3 +18,17 @@ body{
     #info-articolo{
         color:grey;
     }
+    main{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    #data-articolo {
+      font-size: 12px;  
+    }
+    
+    /* testo evidenziato */
+    .text-bg-yellow{
+        background-color: yellow;
+    }
+    
