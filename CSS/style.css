@@ -31,4 +31,22 @@ body{
     .text-bg-yellow{
         background-color: yellow;
     }
+    /* table */
+
+thead{
+    background-color: #56a9fd;
+    color: white;
+}
+
+th{
+    text-align: center;
+}
+
+.bg-blu{
+    background-color: lightblue;
+}
+
+#header-cell-blu{
+    width: 50%;
+}
     
